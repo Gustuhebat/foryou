@@ -1,4 +1,4 @@
-const text = "For You Cantik ❤️";
+const text = "Hai Manieztt ❤️";
 let index = 0;
 const speed = 100; // kecepatan mengetik (ms)
 
@@ -11,4 +11,3 @@ function typeEffect() {
 }
 
 window.onload = typeEffect;
-
